@@ -4,9 +4,9 @@
 
 ----------------
 
-- [Owner@developer-tools-detector [NPM]](https://npmjs.com/package/developer-tools-detector)
-- [Owner@[logikit [NPM]](https://npmjs.com/package/logikit)
-- [Owner@[hostscope [NPM]](https://npmjs.com/package/hostscope)
+- [Created@developer-tools-detector](https://npmjs.com/package/developer-tools-detector)
+- [Created@logikit](https://npmjs.com/package/logikit)
+- [Created@hostscope](https://npmjs.com/package/hostscope)
 
 ----------------
 
