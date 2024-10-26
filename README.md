@@ -1,5 +1,6 @@
 # About Me:
 
+- I have little of real life so I am not that active.
 - Coding some basic shit.
 - Front-End will kill me soon.
 - Creating discord bots since 2019.
