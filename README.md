@@ -1,11 +1,13 @@
 # About Me:
 
-----------------
-
-- Coding some basic shit,
+- Coding some basic shit.
 - Front-End will kill me soon.
+- Creating discord bots since 2019.
+- Web security expert (thats what i think lol).
 
 ----------------
+
+- [Founder@reqshield](https://t.me/reqshield)
 
 - [Created@developer-tools-detector](https://npmjs.com/package/developer-tools-detector)
 - [Created@logikit](https://npmjs.com/package/logikit)
