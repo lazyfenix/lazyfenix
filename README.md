@@ -1,16 +1,16 @@
 # About Me:
-Coding some basic shit,
-Front-End will kill me soon.
+- Coding some basic shit,
+- Front-End will kill me soon.
 
 ----------------
 
-Owner@developer-tools-detector [NPM]
-Owner@logikit [NPM]
-Owner@hostscope [NPM]
+- Owner@[developer-tools-detector [NPM]](https://npmjs.com/package/developer-tools-detector)
+- Owner@[logikit [NPM]](https://npmjs.com/package/logikit)
+- Owner@[hostscope [NPM]](https://npmjs.com/package/hostscope)
 
 ----------------
 
-Working with javascript, golang, python, lua, c, mongodb, mysql...
+- Working with javascript, golang, python, lua, c, mongodb, mysql...
 
 ----------------
 
