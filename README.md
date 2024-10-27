@@ -16,8 +16,7 @@
 
 ----------------
 
-- Working with javascript, golang, python, lua, c, mongodb, mysql...
-
+- Working with javascript, golang, python, lua, c, mongodb, mysql and lot more
 ----------------
 
 [![](https://visitcount.itsvg.in/api?id=lazyfenix&icon=0&color=0)](https://visitcount.itsvg.in)
