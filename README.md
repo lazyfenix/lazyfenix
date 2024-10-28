@@ -14,9 +14,12 @@
 - [Created@logikit](https://npmjs.com/package/logikit)
 - [Created@hostscope](https://npmjs.com/package/hostscope)
 
+- These NPM packages are prob dead, i coded them just because i will use them but if you want to use them and you need help contact me on telegram.
+
 ----------------
 
 - Working with javascript, golang, python, lua, c, mongodb, mysql and lot more
+
 ----------------
 
 [![](https://visitcount.itsvg.in/api?id=lazyfenix&icon=0&color=0)](https://visitcount.itsvg.in)
